@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "a4hKE9LGgqBtNsTHXJs/lA7g6+QNEIwbvdeCT/Tz4zFzDoQva3n5tBj5IHO9EZI0awPAjW3srDyuDZg5uNx7UA==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\Metigator\\#011 OOP - Properties in C#\\ConsoleApp5\\ImageLazyLoadingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

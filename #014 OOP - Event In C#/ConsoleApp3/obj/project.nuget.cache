@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t9VV7qBVx+XSw860ukZjAK2Cv/PoduGD66L4Aa8Ngl/REYMILo1Hl11O4l9Sm3clPP44XqZCOy1XC5rNyYIcqQ==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\Metigator\\#014 OOP - Event In C#\\ConsoleApp3\\FinancialMarketNotifierSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

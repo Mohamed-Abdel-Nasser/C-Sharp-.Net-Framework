@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q1uhVrx6IHVSMvUZ4UNWM2ZSfQoK5S1outzxmOAJcdZiLsmOfPWoqzKiOiu1FkPKV5rDUr/ettZa++Uw3c6ZkA==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\Metigator\\#014 OOP - Event In C#\\ConsoleApp1\\StockPriceNotifierSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

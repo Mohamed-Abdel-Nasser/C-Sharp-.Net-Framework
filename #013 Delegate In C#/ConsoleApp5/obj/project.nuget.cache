@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H9TI3U8FT/yS9ar3ac+5PRal1DZ0SGwtY241+NhKVmqKEJwHmGjSB2eFCRpqiBflSJP7nLESSxoXNDWVi5uN1Q==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\Metigator\\#013 Delegate In C#\\ConsoleApp5\\SalesReportGeneratorSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

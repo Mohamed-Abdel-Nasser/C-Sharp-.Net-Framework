@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurrencyManagerSystem", "ConsoleApp1\CurrencyManagerSystem.csproj", "{E0777EC4-58E8-4975-92B2-85D433149C50}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonalDataHandlerSystem", "ConsoleApp2\PersonalDataHandlerSystem.csproj", "{71D1C6F0-DA47-43B8-82E9-022FF5A0CE19}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometricShapeCalculatorSystem", "ConsoleApp3\GeometricShapeCalculatorSystem.csproj", "{421883E3-CBDA-46E4-932E-EB01EE4D5A58}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemperatureMonitoringSystem", "ConsoleApp4\TemperatureMonitoringSystem.csproj", "{61FB4F4C-220C-4614-A5A1-6983EC4561BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageLazyLoadingSystem", "ConsoleApp5\ImageLazyLoadingSystem.csproj", "{08E0F284-0935-4C68-BECD-E737D627345F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0777EC4-58E8-4975-92B2-85D433149C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0777EC4-58E8-4975-92B2-85D433149C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0777EC4-58E8-4975-92B2-85D433149C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0777EC4-58E8-4975-92B2-85D433149C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71D1C6F0-DA47-43B8-82E9-022FF5A0CE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D1C6F0-DA47-43B8-82E9-022FF5A0CE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D1C6F0-DA47-43B8-82E9-022FF5A0CE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D1C6F0-DA47-43B8-82E9-022FF5A0CE19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421883E3-CBDA-46E4-932E-EB01EE4D5A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421883E3-CBDA-46E4-932E-EB01EE4D5A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421883E3-CBDA-46E4-932E-EB01EE4D5A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421883E3-CBDA-46E4-932E-EB01EE4D5A58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61FB4F4C-220C-4614-A5A1-6983EC4561BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61FB4F4C-220C-4614-A5A1-6983EC4561BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61FB4F4C-220C-4614-A5A1-6983EC4561BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61FB4F4C-220C-4614-A5A1-6983EC4561BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08E0F284-0935-4C68-BECD-E737D627345F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E0F284-0935-4C68-BECD-E737D627345F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E0F284-0935-4C68-BECD-E737D627345F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E0F284-0935-4C68-BECD-E737D627345F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {676BACE1-B577-4C57-9715-D02445CA5F02}
+	EndGlobalSection
+EndGlobal
