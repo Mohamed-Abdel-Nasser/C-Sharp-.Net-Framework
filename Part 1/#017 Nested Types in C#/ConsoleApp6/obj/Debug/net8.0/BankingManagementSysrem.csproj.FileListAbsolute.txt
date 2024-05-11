@@ -1,0 +1,14 @@
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp6\bin\Debug\net8.0\BankingManagementSysrem.exe
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp6\bin\Debug\net8.0\BankingManagementSysrem.deps.json
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp6\bin\Debug\net8.0\BankingManagementSysrem.runtimeconfig.json
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp6\bin\Debug\net8.0\BankingManagementSysrem.dll
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp6\bin\Debug\net8.0\BankingManagementSysrem.pdb
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp6\obj\Debug\net8.0\BankingManagementSysrem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp6\obj\Debug\net8.0\BankingManagementSysrem.AssemblyInfoInputs.cache
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp6\obj\Debug\net8.0\BankingManagementSysrem.AssemblyInfo.cs
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp6\obj\Debug\net8.0\BankingManagementSysrem.csproj.CoreCompileInputs.cache
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp6\obj\Debug\net8.0\BankingManagementSysrem.dll
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp6\obj\Debug\net8.0\refint\BankingManagementSysrem.dll
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp6\obj\Debug\net8.0\BankingManagementSysrem.pdb
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp6\obj\Debug\net8.0\BankingManagementSysrem.genruntimeconfig.cache
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp6\obj\Debug\net8.0\ref\BankingManagementSysrem.dll

@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Projects\\Metigator\\#009 OOP - Methods in C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF076C9-49F8-4166-87B8-DA650CD6B05F}|ConsoleApp3\\CalculatorExtensionsSystem.csproj|d:\\c# projects\\metigator\\#009 oop - methods in c#\\consoleapp3\\calculatorextensionssystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FF076C9-49F8-4166-87B8-DA650CD6B05F}|ConsoleApp3\\CalculatorExtensionsSystem.csproj|solutionrelative:consoleapp3\\calculatorextensionssystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF076C9-49F8-4166-87B8-DA650CD6B05F}|ConsoleApp3\\ConsoleApp3.csproj|d:\\c# projects\\metigator\\#009 oop - methods in c#\\consoleapp3\\calculatorextensionsprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF076C9-49F8-4166-87B8-DA650CD6B05F}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\calculatorextensionsprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4FCD4D-C969-48A9-BC76-770CD5FEEE9A}|ConsoleApp5\\ConsoleApp5.csproj|d:\\c# projects\\metigator\\#009 oop - methods in c#\\consoleapp5\\simplemathoperationsprogram2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4FCD4D-C969-48A9-BC76-770CD5FEEE9A}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\simplemathoperationsprogram2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147A271E-A91F-42BB-A1C5-598BD97087E5}|ConsoleApp6\\ConsoleApp6.csproj|d:\\c# projects\\metigator\\#009 oop - methods in c#\\consoleapp6\\simplemathoperationsprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147A271E-A91F-42BB-A1C5-598BD97087E5}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\simplemathoperationsprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147A271E-A91F-42BB-A1C5-598BD97087E5}|ConsoleApp6\\SimpleMathOperationsSystem.csproj|d:\\c# projects\\metigator\\#009 oop - methods in c#\\consoleapp6\\simplemathoperationssystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{147A271E-A91F-42BB-A1C5-598BD97087E5}|ConsoleApp6\\SimpleMathOperationsSystem.csproj|solutionrelative:consoleapp6\\simplemathoperationssystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077EFA74-3853-44E6-B3F5-BCF976C7EB83}|ConsoleApp4\\SQLQueryGeneratorProgram.csproj|d:\\c# projects\\metigator\\#009 oop - methods in c#\\consoleapp4\\sqlquerygeneratorprogram.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{077EFA74-3853-44E6-B3F5-BCF976C7EB83}|ConsoleApp4\\SQLQueryGeneratorProgram.csproj|solutionrelative:consoleapp4\\sqlquerygeneratorprogram.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077EFA74-3853-44E6-B3F5-BCF976C7EB83}|ConsoleApp4\\ConsoleApp4.csproj|d:\\c# projects\\metigator\\#009 oop - methods in c#\\consoleapp4\\sqlquerygeneratorprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077EFA74-3853-44E6-B3F5-BCF976C7EB83}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\sqlquerygeneratorprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleMathOperationsSystem.csproj",
+              "DocumentMoniker": "D:\\C# Projects\\Metigator\\#009 OOP - Methods in C#\\ConsoleApp6\\SimpleMathOperationsSystem.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp6\\SimpleMathOperationsSystem.csproj",
+              "ToolTip": "D:\\C# Projects\\Metigator\\#009 OOP - Methods in C#\\ConsoleApp6\\SimpleMathOperationsSystem.csproj",
+              "RelativeToolTip": "ConsoleApp6\\SimpleMathOperationsSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T00:52:40.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleMathOperationsProgram.cs",
+              "DocumentMoniker": "D:\\C# Projects\\Metigator\\#009 OOP - Methods in C#\\ConsoleApp6\\SimpleMathOperationsProgram.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\SimpleMathOperationsProgram.cs",
+              "ToolTip": "D:\\C# Projects\\Metigator\\#009 OOP - Methods in C#\\ConsoleApp6\\SimpleMathOperationsProgram.cs",
+              "RelativeToolTip": "ConsoleApp6\\SimpleMathOperationsProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:39:53.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleMathOperationsProgram2.cs",
+              "DocumentMoniker": "D:\\C# Projects\\Metigator\\#009 OOP - Methods in C#\\ConsoleApp5\\SimpleMathOperationsProgram2.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\SimpleMathOperationsProgram2.cs",
+              "ToolTip": "D:\\C# Projects\\Metigator\\#009 OOP - Methods in C#\\ConsoleApp5\\SimpleMathOperationsProgram2.cs",
+              "RelativeToolTip": "ConsoleApp5\\SimpleMathOperationsProgram2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:35:41.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorExtensionsProgram.cs",
+              "DocumentMoniker": "D:\\C# Projects\\Metigator\\#009 OOP - Methods in C#\\ConsoleApp3\\CalculatorExtensionsProgram.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\CalculatorExtensionsProgram.cs",
+              "ToolTip": "D:\\C# Projects\\Metigator\\#009 OOP - Methods in C#\\ConsoleApp3\\CalculatorExtensionsProgram.cs",
+              "RelativeToolTip": "ConsoleApp3\\CalculatorExtensionsProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:42:14.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorExtensionsSystem.csproj",
+              "DocumentMoniker": "D:\\C# Projects\\Metigator\\#009 OOP - Methods in C#\\ConsoleApp3\\CalculatorExtensionsSystem.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp3\\CalculatorExtensionsSystem.csproj",
+              "ToolTip": "D:\\C# Projects\\Metigator\\#009 OOP - Methods in C#\\ConsoleApp3\\CalculatorExtensionsSystem.csproj",
+              "RelativeToolTip": "ConsoleApp3\\CalculatorExtensionsSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T00:46:04.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLQueryGeneratorProgram.csproj",
+              "DocumentMoniker": "D:\\C# Projects\\Metigator\\#009 OOP - Methods in C#\\ConsoleApp4\\SQLQueryGeneratorProgram.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp4\\SQLQueryGeneratorProgram.csproj",
+              "ToolTip": "D:\\C# Projects\\Metigator\\#009 OOP - Methods in C#\\ConsoleApp4\\SQLQueryGeneratorProgram.csproj",
+              "RelativeToolTip": "ConsoleApp4\\SQLQueryGeneratorProgram.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T00:37:51.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLQueryGeneratorProgram.cs",
+              "DocumentMoniker": "D:\\C# Projects\\Metigator\\#009 OOP - Methods in C#\\ConsoleApp4\\SQLQueryGeneratorProgram.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\SQLQueryGeneratorProgram.cs",
+              "ToolTip": "D:\\C# Projects\\Metigator\\#009 OOP - Methods in C#\\ConsoleApp4\\SQLQueryGeneratorProgram.cs",
+              "RelativeToolTip": "ConsoleApp4\\SQLQueryGeneratorProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:37:54.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

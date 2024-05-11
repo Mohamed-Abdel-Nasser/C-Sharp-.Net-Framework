@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tWxv+KEJtRfrEbe36Q3p71BcKFUFeqiuEJgLe/5Q/eddnHzCk5cjRvxDeI+L4tGSyAFkqXstvXTJj5hVAz38Tw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Metigator\\Part 2\\#016 OOP - Finalizer in C#\\ConsoleApp5\\ResourceManagerDemoSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

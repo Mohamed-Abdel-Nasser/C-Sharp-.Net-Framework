@@ -1,0 +1,14 @@
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp1\bin\Debug\net8.0\ConfigurationManagerSystem.exe
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp1\bin\Debug\net8.0\ConfigurationManagerSystem.deps.json
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp1\bin\Debug\net8.0\ConfigurationManagerSystem.runtimeconfig.json
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp1\bin\Debug\net8.0\ConfigurationManagerSystem.dll
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp1\bin\Debug\net8.0\ConfigurationManagerSystem.pdb
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp1\obj\Debug\net8.0\ConfigurationManagerSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp1\obj\Debug\net8.0\ConfigurationManagerSystem.AssemblyInfoInputs.cache
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp1\obj\Debug\net8.0\ConfigurationManagerSystem.AssemblyInfo.cs
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp1\obj\Debug\net8.0\ConfigurationManagerSystem.csproj.CoreCompileInputs.cache
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp1\obj\Debug\net8.0\ConfigurationManagerSystem.dll
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp1\obj\Debug\net8.0\refint\ConfigurationManagerSystem.dll
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp1\obj\Debug\net8.0\ConfigurationManagerSystem.pdb
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp1\obj\Debug\net8.0\ConfigurationManagerSystem.genruntimeconfig.cache
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp1\obj\Debug\net8.0\ref\ConfigurationManagerSystem.dll

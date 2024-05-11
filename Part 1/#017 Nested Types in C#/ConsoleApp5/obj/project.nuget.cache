@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "g6yENPF0JhhJfiDtLjwW5W9Bk+mGsKq1rrYHIN3HbzTFzQjj100WzTCRim/4tU2zFmGf2CIfMdmuaj0fmNDcmg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Metigator\\Part 2\\#017 Nested Types in C#\\ConsoleApp5\\InventoryManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

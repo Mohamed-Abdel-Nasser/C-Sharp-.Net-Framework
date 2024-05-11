@@ -1,0 +1,14 @@
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp2\bin\Debug\net8.0\PaymentGatewaySystem.exe
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp2\bin\Debug\net8.0\PaymentGatewaySystem.deps.json
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp2\bin\Debug\net8.0\PaymentGatewaySystem.runtimeconfig.json
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp2\bin\Debug\net8.0\PaymentGatewaySystem.dll
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp2\bin\Debug\net8.0\PaymentGatewaySystem.pdb
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp2\obj\Debug\net8.0\PaymentGatewaySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp2\obj\Debug\net8.0\PaymentGatewaySystem.AssemblyInfoInputs.cache
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp2\obj\Debug\net8.0\PaymentGatewaySystem.AssemblyInfo.cs
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp2\obj\Debug\net8.0\PaymentGatewaySystem.csproj.CoreCompileInputs.cache
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp2\obj\Debug\net8.0\PaymentGatewaySystem.dll
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp2\obj\Debug\net8.0\refint\PaymentGatewaySystem.dll
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp2\obj\Debug\net8.0\PaymentGatewaySystem.pdb
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp2\obj\Debug\net8.0\PaymentGatewaySystem.genruntimeconfig.cache
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp2\obj\Debug\net8.0\ref\PaymentGatewaySystem.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0NlLh/FabWBlZSbwvGcevOcvvSUVFqUnpUfgm9lQf9l4A5iKIwsCUeh/CuUERYzESjG/SaxBqgrKR5cjoN2A+Q==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\Metigator\\#010 OOP - Constructor in C#\\ConsoleApp4\\EngineTechAnalyzerSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

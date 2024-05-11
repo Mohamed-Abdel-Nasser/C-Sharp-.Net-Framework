@@ -1,0 +1,14 @@
+D:\C# Projects\Metigator\#009 OOP - Methods in C#\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.exe
+D:\C# Projects\Metigator\#009 OOP - Methods in C#\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.deps.json
+D:\C# Projects\Metigator\#009 OOP - Methods in C#\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.runtimeconfig.json
+D:\C# Projects\Metigator\#009 OOP - Methods in C#\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.dll
+D:\C# Projects\Metigator\#009 OOP - Methods in C#\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.pdb
+D:\C# Projects\Metigator\#009 OOP - Methods in C#\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Metigator\#009 OOP - Methods in C#\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfoInputs.cache
+D:\C# Projects\Metigator\#009 OOP - Methods in C#\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfo.cs
+D:\C# Projects\Metigator\#009 OOP - Methods in C#\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\C# Projects\Metigator\#009 OOP - Methods in C#\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.dll
+D:\C# Projects\Metigator\#009 OOP - Methods in C#\ConsoleApp4\obj\Debug\net8.0\refint\ConsoleApp4.dll
+D:\C# Projects\Metigator\#009 OOP - Methods in C#\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.pdb
+D:\C# Projects\Metigator\#009 OOP - Methods in C#\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.genruntimeconfig.cache
+D:\C# Projects\Metigator\#009 OOP - Methods in C#\ConsoleApp4\obj\Debug\net8.0\ref\ConsoleApp4.dll

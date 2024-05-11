@@ -1,0 +1,14 @@
+D:\C# Projects\Metigator\#010 OOP - Constructor in C#\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.exe
+D:\C# Projects\Metigator\#010 OOP - Constructor in C#\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.deps.json
+D:\C# Projects\Metigator\#010 OOP - Constructor in C#\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.runtimeconfig.json
+D:\C# Projects\Metigator\#010 OOP - Constructor in C#\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.dll
+D:\C# Projects\Metigator\#010 OOP - Constructor in C#\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.pdb
+D:\C# Projects\Metigator\#010 OOP - Constructor in C#\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Metigator\#010 OOP - Constructor in C#\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\C# Projects\Metigator\#010 OOP - Constructor in C#\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfo.cs
+D:\C# Projects\Metigator\#010 OOP - Constructor in C#\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\C# Projects\Metigator\#010 OOP - Constructor in C#\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.dll
+D:\C# Projects\Metigator\#010 OOP - Constructor in C#\ConsoleApp3\obj\Debug\net8.0\refint\ConsoleApp3.dll
+D:\C# Projects\Metigator\#010 OOP - Constructor in C#\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.pdb
+D:\C# Projects\Metigator\#010 OOP - Constructor in C#\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.genruntimeconfig.cache
+D:\C# Projects\Metigator\#010 OOP - Constructor in C#\ConsoleApp3\obj\Debug\net8.0\ref\ConsoleApp3.dll

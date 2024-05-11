@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4jglYTVbcBdGdTcrs1zHaEM5mBg+9mLuQEwgAr7KJJZkaWfuOqT50UMCri0M0qL6JuJVVxNkJkkL1+Xit4uo4Q==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Metigator\\Part 2\\#017 Nested Types in C#\\ConsoleApp4\\CompanyStructureManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

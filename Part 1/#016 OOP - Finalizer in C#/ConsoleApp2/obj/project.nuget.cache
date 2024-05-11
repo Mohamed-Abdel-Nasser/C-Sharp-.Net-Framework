@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+FHa1Xr1uA6Cns7QEeGeljOULP9Z+pOMwS/aqdYpZRktTainE2OxMUBcC+hGGZTonugpimukSHyImSPy+4rymg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Metigator\\Part 2\\#016 OOP - Finalizer in C#\\ConsoleApp2\\PaymentGatewaySystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

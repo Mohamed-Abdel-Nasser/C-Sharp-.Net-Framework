@@ -1,0 +1,14 @@
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp3\bin\Debug\net8.0\ProductManagementSystem.exe
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp3\bin\Debug\net8.0\ProductManagementSystem.deps.json
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp3\bin\Debug\net8.0\ProductManagementSystem.runtimeconfig.json
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp3\bin\Debug\net8.0\ProductManagementSystem.dll
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp3\bin\Debug\net8.0\ProductManagementSystem.pdb
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp3\obj\Debug\net8.0\ProductManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp3\obj\Debug\net8.0\ProductManagementSystem.AssemblyInfoInputs.cache
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp3\obj\Debug\net8.0\ProductManagementSystem.AssemblyInfo.cs
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp3\obj\Debug\net8.0\ProductManagementSystem.csproj.CoreCompileInputs.cache
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp3\obj\Debug\net8.0\ProductManagementSystem.dll
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp3\obj\Debug\net8.0\refint\ProductManagementSystem.dll
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp3\obj\Debug\net8.0\ProductManagementSystem.pdb
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp3\obj\Debug\net8.0\ProductManagementSystem.genruntimeconfig.cache
+D:\Projects\Metigator\Part 2\#016 OOP - Finalizer in C#\ConsoleApp3\obj\Debug\net8.0\ref\ProductManagementSystem.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "f2z+3ifsLnCDvB8JKJOVsJ4YmDx9Mujs+GN7ysAE2abE/QZNuPdxoicFE7Mh9TrZ2NK9KFp6vtmlF6cpVB0CCQ==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\Metigator\\#011 OOP - Properties in C#\\ConsoleApp3\\GeometricShapeCalculatorSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

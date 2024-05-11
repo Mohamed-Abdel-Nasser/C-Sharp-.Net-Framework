@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JtVNEy9/3N2+2j6xirUrvaj7wHHzDtYvBg86dv+Dh7lWEpWpZnkbqZwAI8onO4Nu6v9slzOIH7kBAtcaMLyr8A==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\Metigator\\#008 OOP - Field & Constant in C#\\ConsoleApp4\\PayrollManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

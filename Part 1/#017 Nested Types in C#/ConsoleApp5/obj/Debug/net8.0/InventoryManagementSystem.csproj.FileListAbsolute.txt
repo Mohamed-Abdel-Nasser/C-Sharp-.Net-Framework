@@ -1,0 +1,14 @@
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp5\bin\Debug\net8.0\InventoryManagementSystem.exe
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp5\bin\Debug\net8.0\InventoryManagementSystem.deps.json
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp5\bin\Debug\net8.0\InventoryManagementSystem.runtimeconfig.json
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp5\bin\Debug\net8.0\InventoryManagementSystem.dll
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp5\bin\Debug\net8.0\InventoryManagementSystem.pdb
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp5\obj\Debug\net8.0\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp5\obj\Debug\net8.0\InventoryManagementSystem.AssemblyInfoInputs.cache
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp5\obj\Debug\net8.0\InventoryManagementSystem.AssemblyInfo.cs
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp5\obj\Debug\net8.0\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp5\obj\Debug\net8.0\InventoryManagementSystem.dll
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp5\obj\Debug\net8.0\refint\InventoryManagementSystem.dll
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp5\obj\Debug\net8.0\InventoryManagementSystem.pdb
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp5\obj\Debug\net8.0\InventoryManagementSystem.genruntimeconfig.cache
+D:\Projects\Metigator\Part 2\#017 Nested Types in C#\ConsoleApp5\obj\Debug\net8.0\ref\InventoryManagementSystem.dll

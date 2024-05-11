@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConfigurationManagerSystem", "ConsoleApp1\ConfigurationManagerSystem.csproj", "{576E97F0-2B45-4386-9C06-28FCB8E0A8BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapeMeasurementSystem", "ConsoleApp2\ShapeMeasurementSystem.csproj", "{695AD6D9-3DA4-4B70-ADE6-108F7F240600}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileSystemManager", "ConsoleApp3\FileSystemManager.csproj", "{01DC3733-2C66-4516-8655-36648126D7F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyStructureManagementSystem", "ConsoleApp4\CompanyStructureManagementSystem.csproj", "{00DA19C6-342F-49D7-8CA3-B0292F22F869}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagementSystem", "ConsoleApp5\InventoryManagementSystem.csproj", "{2D52C5A5-45A4-4BE3-AD5C-DDE41E9BCD86}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankingManagementSysrem", "ConsoleApp6\BankingManagementSysrem.csproj", "{FCA59174-2464-4311-AF0C-A50BF9736022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{576E97F0-2B45-4386-9C06-28FCB8E0A8BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576E97F0-2B45-4386-9C06-28FCB8E0A8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576E97F0-2B45-4386-9C06-28FCB8E0A8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576E97F0-2B45-4386-9C06-28FCB8E0A8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{695AD6D9-3DA4-4B70-ADE6-108F7F240600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695AD6D9-3DA4-4B70-ADE6-108F7F240600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695AD6D9-3DA4-4B70-ADE6-108F7F240600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695AD6D9-3DA4-4B70-ADE6-108F7F240600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01DC3733-2C66-4516-8655-36648126D7F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01DC3733-2C66-4516-8655-36648126D7F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01DC3733-2C66-4516-8655-36648126D7F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01DC3733-2C66-4516-8655-36648126D7F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DA19C6-342F-49D7-8CA3-B0292F22F869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DA19C6-342F-49D7-8CA3-B0292F22F869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DA19C6-342F-49D7-8CA3-B0292F22F869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DA19C6-342F-49D7-8CA3-B0292F22F869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D52C5A5-45A4-4BE3-AD5C-DDE41E9BCD86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D52C5A5-45A4-4BE3-AD5C-DDE41E9BCD86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D52C5A5-45A4-4BE3-AD5C-DDE41E9BCD86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D52C5A5-45A4-4BE3-AD5C-DDE41E9BCD86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA59174-2464-4311-AF0C-A50BF9736022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA59174-2464-4311-AF0C-A50BF9736022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA59174-2464-4311-AF0C-A50BF9736022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA59174-2464-4311-AF0C-A50BF9736022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {819C8DD7-38F1-4A9A-A919-E859B5F3967B}
+	EndGlobalSection
+EndGlobal

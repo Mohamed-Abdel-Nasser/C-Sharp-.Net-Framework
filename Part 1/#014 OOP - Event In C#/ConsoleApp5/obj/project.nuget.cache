@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F86HtqD+Y/zK39jLaD3vYoMysoQTy4yDKu0vq44Pmh2ul2MHbPG3RQPegEUyLc2CFOHGXDbTGn/vem9Sn3PEzg==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\Metigator\\#014 OOP - Event In C#\\ConsoleApp5\\EventSubscriberDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

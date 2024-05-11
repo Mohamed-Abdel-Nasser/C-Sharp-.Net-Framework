@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FvBOTyqbvc/wJHmo1HspR+E17OmLdhyMLSpkYvHL0znk3+0iOhOAwrjiVBQ0uB6p1Ye0RABnttAaUz6vAJh4Mw==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\Metigator\\#012 OOP - Indexers in C#\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Gpq94bp2CC0W2qPKCWxuVC/VNGQzLdFSvQaxK7hL4CMVOX58P3Kj6f9yffa7zLdkhRxq67hM7N7hZ3GiEGrhA==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\Metigator\\#008 OOP - Field & Constant in C#\\ConsoleApp2\\CirclePropertiesCalculatorSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
