@@ -1,0 +1,4 @@
+D:\MN\PL\#C\#CProjecFromScratch\SkillManagementSystem\obj\Debug\net8.0\SkillManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\MN\PL\#C\#CProjecFromScratch\SkillManagementSystem\obj\Debug\net8.0\SkillManagementSystem.AssemblyInfoInputs.cache
+D:\MN\PL\#C\#CProjecFromScratch\SkillManagementSystem\obj\Debug\net8.0\SkillManagementSystem.AssemblyInfo.cs
+D:\MN\PL\#C\#CProjecFromScratch\SkillManagementSystem\obj\Debug\net8.0\SkillManagementSystem.csproj.CoreCompileInputs.cache

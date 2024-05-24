@@ -1,0 +1,14 @@
+D:\MN\PL\#C\#CProjecFromScratch\PurchaseOrderModel\bin\Debug\net8.0\PurchaseOrderModel.exe
+D:\MN\PL\#C\#CProjecFromScratch\PurchaseOrderModel\bin\Debug\net8.0\PurchaseOrderModel.deps.json
+D:\MN\PL\#C\#CProjecFromScratch\PurchaseOrderModel\bin\Debug\net8.0\PurchaseOrderModel.runtimeconfig.json
+D:\MN\PL\#C\#CProjecFromScratch\PurchaseOrderModel\bin\Debug\net8.0\PurchaseOrderModel.dll
+D:\MN\PL\#C\#CProjecFromScratch\PurchaseOrderModel\bin\Debug\net8.0\PurchaseOrderModel.pdb
+D:\MN\PL\#C\#CProjecFromScratch\PurchaseOrderModel\obj\Debug\net8.0\PurchaseOrderModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\MN\PL\#C\#CProjecFromScratch\PurchaseOrderModel\obj\Debug\net8.0\PurchaseOrderModel.AssemblyInfoInputs.cache
+D:\MN\PL\#C\#CProjecFromScratch\PurchaseOrderModel\obj\Debug\net8.0\PurchaseOrderModel.AssemblyInfo.cs
+D:\MN\PL\#C\#CProjecFromScratch\PurchaseOrderModel\obj\Debug\net8.0\PurchaseOrderModel.csproj.CoreCompileInputs.cache
+D:\MN\PL\#C\#CProjecFromScratch\PurchaseOrderModel\obj\Debug\net8.0\PurchaseOrderModel.dll
+D:\MN\PL\#C\#CProjecFromScratch\PurchaseOrderModel\obj\Debug\net8.0\refint\PurchaseOrderModel.dll
+D:\MN\PL\#C\#CProjecFromScratch\PurchaseOrderModel\obj\Debug\net8.0\PurchaseOrderModel.pdb
+D:\MN\PL\#C\#CProjecFromScratch\PurchaseOrderModel\obj\Debug\net8.0\PurchaseOrderModel.genruntimeconfig.cache
+D:\MN\PL\#C\#CProjecFromScratch\PurchaseOrderModel\obj\Debug\net8.0\ref\PurchaseOrderModel.dll
