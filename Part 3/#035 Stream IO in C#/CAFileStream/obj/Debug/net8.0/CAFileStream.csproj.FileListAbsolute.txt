@@ -1,0 +1,14 @@
+D:\Projects\Metigator\Part 3\#035 Stream IO in C#\CAFileStream\bin\Debug\net8.0\CAFileStream.exe
+D:\Projects\Metigator\Part 3\#035 Stream IO in C#\CAFileStream\bin\Debug\net8.0\CAFileStream.deps.json
+D:\Projects\Metigator\Part 3\#035 Stream IO in C#\CAFileStream\bin\Debug\net8.0\CAFileStream.runtimeconfig.json
+D:\Projects\Metigator\Part 3\#035 Stream IO in C#\CAFileStream\bin\Debug\net8.0\CAFileStream.dll
+D:\Projects\Metigator\Part 3\#035 Stream IO in C#\CAFileStream\bin\Debug\net8.0\CAFileStream.pdb
+D:\Projects\Metigator\Part 3\#035 Stream IO in C#\CAFileStream\obj\Debug\net8.0\CAFileStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Metigator\Part 3\#035 Stream IO in C#\CAFileStream\obj\Debug\net8.0\CAFileStream.AssemblyInfoInputs.cache
+D:\Projects\Metigator\Part 3\#035 Stream IO in C#\CAFileStream\obj\Debug\net8.0\CAFileStream.AssemblyInfo.cs
+D:\Projects\Metigator\Part 3\#035 Stream IO in C#\CAFileStream\obj\Debug\net8.0\CAFileStream.csproj.CoreCompileInputs.cache
+D:\Projects\Metigator\Part 3\#035 Stream IO in C#\CAFileStream\obj\Debug\net8.0\CAFileStream.dll
+D:\Projects\Metigator\Part 3\#035 Stream IO in C#\CAFileStream\obj\Debug\net8.0\refint\CAFileStream.dll
+D:\Projects\Metigator\Part 3\#035 Stream IO in C#\CAFileStream\obj\Debug\net8.0\CAFileStream.pdb
+D:\Projects\Metigator\Part 3\#035 Stream IO in C#\CAFileStream\obj\Debug\net8.0\CAFileStream.genruntimeconfig.cache
+D:\Projects\Metigator\Part 3\#035 Stream IO in C#\CAFileStream\obj\Debug\net8.0\ref\CAFileStream.dll
