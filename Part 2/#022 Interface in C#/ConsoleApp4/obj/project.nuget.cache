@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v2DH1JLVxImO/qLFmzyB7BiAr2ZT5lkBH3Af/rne7PFiKPt+jo74cMlX8lR2qYHoUdY+rBa5W4LmlsXijce9EA==",
+  "success": true,
+  "projectFilePath": "D:\\MN\\PL\\#C\\Metigator\\Part 2\\#022 Interface in C#\\ConsoleApp4\\PaymentProcessingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

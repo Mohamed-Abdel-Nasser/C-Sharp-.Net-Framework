@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "frAyYCNwwhzT2vBjWAVhEnth4+/fFRC/+xTHIkUN0MWZo6qsGLIkc+r1s2M9J4+rdd2qaQeKcR8TJaF7KmnUYg==",
+  "success": true,
+  "projectFilePath": "D:\\MN\\PL\\#C\\Metigator\\Part 2\\#019 Struct in C#\\ConsoleApp3\\FinancialPortfolioManagerSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

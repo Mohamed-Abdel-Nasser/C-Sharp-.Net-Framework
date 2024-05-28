@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MN\\PL\\#C\\Metigator\\Part 2\\#019 Struct in C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92FAC5C3-7842-477A-A9B9-2490585C7D21}|ConsoleApp1\\ConsoleApp1.csproj|d:\\mn\\pl\\#c\\metigator\\part 2\\#019 struct in c#\\consoleapp1\\datamagnitudemanagerprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FAC5C3-7842-477A-A9B9-2490585C7D21}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\datamagnitudemanagerprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB234CB-89ED-4133-9C77-55AC19DB4C76}|ConsoleApp2\\ConsoleApp2.csproj|d:\\mn\\pl\\#c\\metigator\\part 2\\#019 struct in c#\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB234CB-89ED-4133-9C77-55AC19DB4C76}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0843DC3E-11D5-43FE-BEBD-CB21354300ED}|ConsoleApp9\\PurchaseOrderDetailsSystem.csproj|d:\\mn\\pl\\#c\\metigator\\part 2\\#019 struct in c#\\consoleapp9\\purchaseorderdetailsprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0843DC3E-11D5-43FE-BEBD-CB21354300ED}|ConsoleApp9\\PurchaseOrderDetailsSystem.csproj|solutionrelative:consoleapp9\\purchaseorderdetailsprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16038FCC-E100-4A8C-855F-A63DB5BF8B27}|ConsoleApp12\\CustomerAccountManagerSystem.csproj|d:\\mn\\pl\\#c\\metigator\\part 2\\#019 struct in c#\\consoleapp12\\customeraccountmanagerprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16038FCC-E100-4A8C-855F-A63DB5BF8B27}|ConsoleApp12\\CustomerAccountManagerSystem.csproj|solutionrelative:consoleapp12\\customeraccountmanagerprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA965F0-90CB-4895-A3D6-A008131B5DD9}|ConsoleApp10\\CustomerInformationDisplaySystem.csproj|d:\\mn\\pl\\#c\\metigator\\part 2\\#019 struct in c#\\consoleapp10\\customerinformationdisplayprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA965F0-90CB-4895-A3D6-A008131B5DD9}|ConsoleApp10\\CustomerInformationDisplaySystem.csproj|solutionrelative:consoleapp10\\customerinformationdisplayprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B218007B-4B8B-4654-82A5-D01D849033D7}|ConsoleApp3\\FinancialPortfolioManagerSystem.csproj|d:\\mn\\pl\\#c\\metigator\\part 2\\#019 struct in c#\\consoleapp3\\financialportfoliomanagerprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B218007B-4B8B-4654-82A5-D01D849033D7}|ConsoleApp3\\FinancialPortfolioManagerSystem.csproj|solutionrelative:consoleapp3\\financialportfoliomanagerprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerAccountManagerProgram.cs",
+              "DocumentMoniker": "D:\\MN\\PL\\#C\\Metigator\\Part 2\\#019 Struct in C#\\ConsoleApp12\\CustomerAccountManagerProgram.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\CustomerAccountManagerProgram.cs",
+              "ToolTip": "D:\\MN\\PL\\#C\\Metigator\\Part 2\\#019 Struct in C#\\ConsoleApp12\\CustomerAccountManagerProgram.cs",
+              "RelativeToolTip": "ConsoleApp12\\CustomerAccountManagerProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:23:41.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MN\\PL\\#C\\Metigator\\Part 2\\#019 Struct in C#\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "D:\\MN\\PL\\#C\\Metigator\\Part 2\\#019 Struct in C#\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:24:02.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PurchaseOrderDetailsProgram.cs",
+              "DocumentMoniker": "D:\\MN\\PL\\#C\\Metigator\\Part 2\\#019 Struct in C#\\ConsoleApp9\\PurchaseOrderDetailsProgram.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\PurchaseOrderDetailsProgram.cs",
+              "ToolTip": "D:\\MN\\PL\\#C\\Metigator\\Part 2\\#019 Struct in C#\\ConsoleApp9\\PurchaseOrderDetailsProgram.cs",
+              "RelativeToolTip": "ConsoleApp9\\PurchaseOrderDetailsProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:09:39.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataMagnitudeManagerProgram.cs",
+              "DocumentMoniker": "D:\\MN\\PL\\#C\\Metigator\\Part 2\\#019 Struct in C#\\ConsoleApp1\\DataMagnitudeManagerProgram.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DataMagnitudeManagerProgram.cs",
+              "ToolTip": "D:\\MN\\PL\\#C\\Metigator\\Part 2\\#019 Struct in C#\\ConsoleApp1\\DataMagnitudeManagerProgram.cs",
+              "RelativeToolTip": "ConsoleApp1\\DataMagnitudeManagerProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:10:50.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerInformationDisplayProgram.cs",
+              "DocumentMoniker": "D:\\MN\\PL\\#C\\Metigator\\Part 2\\#019 Struct in C#\\ConsoleApp10\\CustomerInformationDisplayProgram.cs",
+              "RelativeDocumentMoniker": "ConsoleApp10\\CustomerInformationDisplayProgram.cs",
+              "ToolTip": "D:\\MN\\PL\\#C\\Metigator\\Part 2\\#019 Struct in C#\\ConsoleApp10\\CustomerInformationDisplayProgram.cs",
+              "RelativeToolTip": "ConsoleApp10\\CustomerInformationDisplayProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:43:37.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinancialPortfolioManagerProgram.cs",
+              "DocumentMoniker": "D:\\MN\\PL\\#C\\Metigator\\Part 2\\#019 Struct in C#\\ConsoleApp3\\FinancialPortfolioManagerProgram.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\FinancialPortfolioManagerProgram.cs",
+              "ToolTip": "D:\\MN\\PL\\#C\\Metigator\\Part 2\\#019 Struct in C#\\ConsoleApp3\\FinancialPortfolioManagerProgram.cs",
+              "RelativeToolTip": "ConsoleApp3\\FinancialPortfolioManagerProgram.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAYwIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:35:17.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "a4441396-54b1-4c19-8fce-d1ff4793c3f8",
+        "Display": 0,
+        "X": 73,
+        "Y": 573,
+        "Width": 1217,
+        "Height": 234,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp10\bin\Debug\net8.0\CustomerInformationDisplaySystem.exe
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp10\bin\Debug\net8.0\CustomerInformationDisplaySystem.deps.json
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp10\bin\Debug\net8.0\CustomerInformationDisplaySystem.runtimeconfig.json
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp10\bin\Debug\net8.0\CustomerInformationDisplaySystem.dll
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp10\bin\Debug\net8.0\CustomerInformationDisplaySystem.pdb
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp10\obj\Debug\net8.0\CustomerInformationDisplaySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp10\obj\Debug\net8.0\CustomerInformationDisplaySystem.AssemblyInfoInputs.cache
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp10\obj\Debug\net8.0\CustomerInformationDisplaySystem.AssemblyInfo.cs
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp10\obj\Debug\net8.0\CustomerInformationDisplaySystem.csproj.CoreCompileInputs.cache
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp10\obj\Debug\net8.0\CustomerInformationDisplaySystem.dll
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp10\obj\Debug\net8.0\refint\CustomerInformationDisplaySystem.dll
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp10\obj\Debug\net8.0\CustomerInformationDisplaySystem.pdb
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp10\obj\Debug\net8.0\CustomerInformationDisplaySystem.genruntimeconfig.cache
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp10\obj\Debug\net8.0\ref\CustomerInformationDisplaySystem.dll

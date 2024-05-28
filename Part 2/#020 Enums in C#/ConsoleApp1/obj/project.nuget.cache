@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Kqvr1eAmJfFREcM3Pus0ix7EVNtkyyT46Dsajlw4sVsDgJ96xEMeq8L+/UkqCBsk8g/lQ0DR1KH2WF7vzNzEg==",
+  "success": true,
+  "projectFilePath": "D:\\MN\\PL\\#C\\Metigator\\Part 2\\#020 Enums in C#\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

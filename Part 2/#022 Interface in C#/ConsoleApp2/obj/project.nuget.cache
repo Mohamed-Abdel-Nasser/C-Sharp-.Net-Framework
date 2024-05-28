@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xk5jIQkPFjcdc40uGQq1aA7VVIIwSZdNGx47yCa+y3k4Qw/KB5mmnUfYDM35YNVDuYKtQ+CQUj/7/nfq4Jj6aA==",
+  "success": true,
+  "projectFilePath": "D:\\MN\\PL\\#C\\Metigator\\Part 2\\#022 Interface in C#\\ConsoleApp2\\DeviceControlSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

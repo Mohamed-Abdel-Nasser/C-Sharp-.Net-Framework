@@ -1,0 +1,14 @@
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp4\bin\Debug\net8.0\ManufacturingOrderManagementSystem.exe
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp4\bin\Debug\net8.0\ManufacturingOrderManagementSystem.deps.json
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp4\bin\Debug\net8.0\ManufacturingOrderManagementSystem.runtimeconfig.json
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp4\bin\Debug\net8.0\ManufacturingOrderManagementSystem.dll
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp4\bin\Debug\net8.0\ManufacturingOrderManagementSystem.pdb
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp4\obj\Debug\net8.0\ManufacturingOrderManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp4\obj\Debug\net8.0\ManufacturingOrderManagementSystem.AssemblyInfoInputs.cache
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp4\obj\Debug\net8.0\ManufacturingOrderManagementSystem.AssemblyInfo.cs
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp4\obj\Debug\net8.0\ManufacturingOrderManagementSystem.csproj.CoreCompileInputs.cache
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp4\obj\Debug\net8.0\ManufacturingOrderManagementSystem.dll
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp4\obj\Debug\net8.0\refint\ManufacturingOrderManagementSystem.dll
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp4\obj\Debug\net8.0\ManufacturingOrderManagementSystem.pdb
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp4\obj\Debug\net8.0\ManufacturingOrderManagementSystem.genruntimeconfig.cache
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp4\obj\Debug\net8.0\ref\ManufacturingOrderManagementSystem.dll

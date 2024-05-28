@@ -1,0 +1,14 @@
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp12\bin\Debug\net8.0\CustomerAccountManagerSystem.exe
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp12\bin\Debug\net8.0\CustomerAccountManagerSystem.deps.json
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp12\bin\Debug\net8.0\CustomerAccountManagerSystem.runtimeconfig.json
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp12\bin\Debug\net8.0\CustomerAccountManagerSystem.dll
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp12\bin\Debug\net8.0\CustomerAccountManagerSystem.pdb
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp12\obj\Debug\net8.0\CustomerAccountManagerSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp12\obj\Debug\net8.0\CustomerAccountManagerSystem.AssemblyInfoInputs.cache
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp12\obj\Debug\net8.0\CustomerAccountManagerSystem.AssemblyInfo.cs
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp12\obj\Debug\net8.0\CustomerAccountManagerSystem.csproj.CoreCompileInputs.cache
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp12\obj\Debug\net8.0\CustomerAccountManagerSystem.dll
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp12\obj\Debug\net8.0\refint\CustomerAccountManagerSystem.dll
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp12\obj\Debug\net8.0\CustomerAccountManagerSystem.pdb
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp12\obj\Debug\net8.0\CustomerAccountManagerSystem.genruntimeconfig.cache
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp12\obj\Debug\net8.0\ref\CustomerAccountManagerSystem.dll

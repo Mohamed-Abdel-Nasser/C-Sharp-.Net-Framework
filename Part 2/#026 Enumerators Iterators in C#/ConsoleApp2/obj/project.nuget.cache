@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "00JinECRwKvCI8IlwXFoRUUaINYCmYdlv4TiTAeeeRKQW7dlfJvjtrjdvMGA2EMLrxOsAmu0k+a5FsIIxNc7FQ==",
+  "success": true,
+  "projectFilePath": "C:\\C# Projects\\Metigator\\#026 Enumerators Iterators in C#\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.3\\microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

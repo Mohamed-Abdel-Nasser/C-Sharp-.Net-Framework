@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C# Projects\\Metigator\\#026 Enumerators Iterators in C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63EFECF6-E916-4A52-B723-0C02FA1F96C9}|ConsoleApp2\\ConsoleApp2.csproj|c:\\c# projects\\metigator\\#026 enumerators iterators in c#\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EFECF6-E916-4A52-B723-0C02FA1F96C9}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F29C3A-1A43-4B8E-A3FC-79A9DCD26329}|ConsoleApp3\\ConsoleApp3.csproj|c:\\c# projects\\metigator\\#026 enumerators iterators in c#\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F29C3A-1A43-4B8E-A3FC-79A9DCD26329}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5003DEAF-49E4-4FFB-91CB-45904B69B947}|ConsoleApp4\\ConsoleApp4.csproj|c:\\c# projects\\metigator\\#026 enumerators iterators in c#\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5003DEAF-49E4-4FFB-91CB-45904B69B947}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AC80E3-557B-4F50-9C3B-84AF5526454E}|ConsoleApp5\\ConsoleApp5.csproj|c:\\c# projects\\metigator\\#026 enumerators iterators in c#\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AC80E3-557B-4F50-9C3B-84AF5526454E}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859B27E4-C65A-41CF-B23A-F0296492565E}|ConsoleApp6\\ConsoleApp6.csproj|c:\\c# projects\\metigator\\#026 enumerators iterators in c#\\consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859B27E4-C65A-41CF-B23A-F0296492565E}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505B2277-866E-4F0D-9588-8B0C8C1A9B9D}|ConsoleApp7\\ConsoleApp7.csproj|c:\\c# projects\\metigator\\#026 enumerators iterators in c#\\consoleapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505B2277-866E-4F0D-9588-8B0C8C1A9B9D}|ConsoleApp7\\ConsoleApp7.csproj|solutionrelative:consoleapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FA9E4C-A432-4967-BB8C-FBCA85E33FCE}|ConsoleApp8\\ConsoleApp8.csproj|c:\\c# projects\\metigator\\#026 enumerators iterators in c#\\consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FA9E4C-A432-4967-BB8C-FBCA85E33FCE}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19210CB1-52C5-4E91-BB28-342C180AFBE7}|ConsoleApp1\\ConsoleApp1.csproj|c:\\c# projects\\metigator\\#026 enumerators iterators in c#\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19210CB1-52C5-4E91-BB28-342C180AFBE7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# Projects\\Metigator\\#026 Enumerators Iterators in C#\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\C# Projects\\Metigator\\#026 Enumerators Iterators in C#\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:50:16.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# Projects\\Metigator\\#026 Enumerators Iterators in C#\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\C# Projects\\Metigator\\#026 Enumerators Iterators in C#\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "ConsoleApp3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:50:14.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# Projects\\Metigator\\#026 Enumerators Iterators in C#\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Program.cs",
+              "ToolTip": "C:\\C# Projects\\Metigator\\#026 Enumerators Iterators in C#\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "ConsoleApp4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:50:12.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# Projects\\Metigator\\#026 Enumerators Iterators in C#\\ConsoleApp5\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\Program.cs",
+              "ToolTip": "C:\\C# Projects\\Metigator\\#026 Enumerators Iterators in C#\\ConsoleApp5\\Program.cs",
+              "RelativeToolTip": "ConsoleApp5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:50:10.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# Projects\\Metigator\\#026 Enumerators Iterators in C#\\ConsoleApp6\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Program.cs",
+              "ToolTip": "C:\\C# Projects\\Metigator\\#026 Enumerators Iterators in C#\\ConsoleApp6\\Program.cs",
+              "RelativeToolTip": "ConsoleApp6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:50:07.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# Projects\\Metigator\\#026 Enumerators Iterators in C#\\ConsoleApp7\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp7\\Program.cs",
+              "ToolTip": "C:\\C# Projects\\Metigator\\#026 Enumerators Iterators in C#\\ConsoleApp7\\Program.cs",
+              "RelativeToolTip": "ConsoleApp7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:50:05.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# Projects\\Metigator\\#026 Enumerators Iterators in C#\\ConsoleApp8\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Program.cs",
+              "ToolTip": "C:\\C# Projects\\Metigator\\#026 Enumerators Iterators in C#\\ConsoleApp8\\Program.cs",
+              "RelativeToolTip": "ConsoleApp8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:50:03.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# Projects\\Metigator\\#026 Enumerators Iterators in C#\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\C# Projects\\Metigator\\#026 Enumerators Iterators in C#\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:49:06.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

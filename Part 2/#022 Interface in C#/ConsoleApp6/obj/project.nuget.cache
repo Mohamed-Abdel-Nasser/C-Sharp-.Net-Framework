@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0+sG+SOVDcLO8gJzX661pzaQ4csTqx592ZlFJ3PFQDciJrx6lAUczmiU2uQ/bb3KabFbi2Ns/dVagUSOHtiM3A==",
+  "success": true,
+  "projectFilePath": "D:\\MN\\PL\\#C\\Metigator\\Part 2\\#022 Interface in C#\\ConsoleApp6\\SmartHomeAutomationSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

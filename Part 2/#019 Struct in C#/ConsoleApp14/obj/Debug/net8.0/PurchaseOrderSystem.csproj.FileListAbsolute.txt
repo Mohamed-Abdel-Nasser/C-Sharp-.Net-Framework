@@ -1,0 +1,14 @@
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp14\bin\Debug\net8.0\PurchaseOrderSystem.exe
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp14\bin\Debug\net8.0\PurchaseOrderSystem.deps.json
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp14\bin\Debug\net8.0\PurchaseOrderSystem.runtimeconfig.json
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp14\bin\Debug\net8.0\PurchaseOrderSystem.dll
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp14\bin\Debug\net8.0\PurchaseOrderSystem.pdb
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp14\obj\Debug\net8.0\PurchaseOrderSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp14\obj\Debug\net8.0\PurchaseOrderSystem.AssemblyInfoInputs.cache
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp14\obj\Debug\net8.0\PurchaseOrderSystem.AssemblyInfo.cs
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp14\obj\Debug\net8.0\PurchaseOrderSystem.csproj.CoreCompileInputs.cache
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp14\obj\Debug\net8.0\PurchaseOrderSystem.dll
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp14\obj\Debug\net8.0\refint\PurchaseOrderSystem.dll
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp14\obj\Debug\net8.0\PurchaseOrderSystem.pdb
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp14\obj\Debug\net8.0\PurchaseOrderSystem.genruntimeconfig.cache
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp14\obj\Debug\net8.0\ref\PurchaseOrderSystem.dll

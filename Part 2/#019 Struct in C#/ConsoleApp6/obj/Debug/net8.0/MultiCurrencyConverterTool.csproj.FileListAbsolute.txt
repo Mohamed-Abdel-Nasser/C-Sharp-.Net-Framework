@@ -1,0 +1,14 @@
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp6\bin\Debug\net8.0\MultiCurrencyConverterTool.exe
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp6\bin\Debug\net8.0\MultiCurrencyConverterTool.deps.json
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp6\bin\Debug\net8.0\MultiCurrencyConverterTool.runtimeconfig.json
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp6\bin\Debug\net8.0\MultiCurrencyConverterTool.dll
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp6\bin\Debug\net8.0\MultiCurrencyConverterTool.pdb
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp6\obj\Debug\net8.0\MultiCurrencyConverterTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp6\obj\Debug\net8.0\MultiCurrencyConverterTool.AssemblyInfoInputs.cache
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp6\obj\Debug\net8.0\MultiCurrencyConverterTool.AssemblyInfo.cs
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp6\obj\Debug\net8.0\MultiCurrencyConverterTool.csproj.CoreCompileInputs.cache
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp6\obj\Debug\net8.0\MultiCurrencyConverterTool.dll
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp6\obj\Debug\net8.0\refint\MultiCurrencyConverterTool.dll
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp6\obj\Debug\net8.0\MultiCurrencyConverterTool.pdb
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp6\obj\Debug\net8.0\MultiCurrencyConverterTool.genruntimeconfig.cache
+D:\MN\PL\#C\Metigator\Part 2\#019 Struct in C#\ConsoleApp6\obj\Debug\net8.0\ref\MultiCurrencyConverterTool.dll

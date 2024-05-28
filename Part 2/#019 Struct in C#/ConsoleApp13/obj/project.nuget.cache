@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gwsKoBh3n7we5cTB28ZRmxzDPz/nlof4rEhlmNvZwVI1SkjcPOYaqY5AohWA4E2VkKfPKvY6wP+7kB5vOyYUTw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Metigator\\Part 2\\#019 Struct in C#\\ConsoleApp13\\ConsoleApp13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

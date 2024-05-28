@@ -1,0 +1,14 @@
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.exe
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.deps.json
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.runtimeconfig.json
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.dll
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.pdb
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.AssemblyInfoInputs.cache
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.AssemblyInfo.cs
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.dll
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp8\obj\Debug\net8.0\refint\ConsoleApp8.dll
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.pdb
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.genruntimeconfig.cache
+D:\Projects\Metigator\Part 2\#019 Struct in C#\ConsoleApp8\obj\Debug\net8.0\ref\ConsoleApp8.dll
