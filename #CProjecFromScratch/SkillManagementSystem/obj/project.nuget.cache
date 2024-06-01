@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xlaBl56ZQjy/VmZKp8O21ojYlnfwjDHybUXKmIVpKjuaZ1Ada/ERtjE+BzMGV/sHkTimh7TP0JYW08PwJODSHQ==",
+  "dgSpecHash": "tGBVd8ua3mK0F/0xXT/fUrQL6USRL9d2IsxuEhwKPJzwM/8PDkKXCML+M6q1tgjRL/Pk63mlYG0Kk3gdW4V9jQ==",
   "success": true,
-  "projectFilePath": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\SkillManagementSystem\\SkillManagementSystem.csproj",
+  "projectFilePath": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\SkillManagementSystem\\SkillManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
     "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",

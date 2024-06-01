@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MN\\PL\\#C\\#CProjecFromScratch\\ManufacturingOrdProgram\\ManufacturingOrdProgram.csproj": {}
+    "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\ManufacturingOrdProgram\\ManufacturingOrdProgram.csproj": {}
   },
   "projects": {
-    "D:\\MN\\PL\\#C\\#CProjecFromScratch\\ManufacturingOrdProgram\\ManufacturingOrdProgram.csproj": {
+    "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\ManufacturingOrdProgram\\ManufacturingOrdProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\ManufacturingOrdProgram\\ManufacturingOrdProgram.csproj",
+        "projectUniqueName": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\ManufacturingOrdProgram\\ManufacturingOrdProgram.csproj",
         "projectName": "ManufacturingOrdProgram",
-        "projectPath": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\ManufacturingOrdProgram\\ManufacturingOrdProgram.csproj",
+        "projectPath": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\ManufacturingOrdProgram\\ManufacturingOrdProgram.csproj",
         "packagesPath": "C:\\Users\\kayan\\.nuget\\packages\\",
-        "outputPath": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\ManufacturingOrdProgram\\obj\\",
+        "outputPath": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\ManufacturingOrdProgram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kayan\\AppData\\Roaming\\NuGet\\NuGet.Config",

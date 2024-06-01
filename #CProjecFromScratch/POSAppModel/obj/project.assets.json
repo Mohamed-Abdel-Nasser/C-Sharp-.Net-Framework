@@ -111,11 +111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\POSAppModel\\POSAppModel.csproj",
+      "projectUniqueName": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\POSAppModel\\POSAppModel.csproj",
       "projectName": "POSAppModel",
-      "projectPath": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\POSAppModel\\POSAppModel.csproj",
+      "projectPath": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\POSAppModel\\POSAppModel.csproj",
       "packagesPath": "C:\\Users\\kayan\\.nuget\\packages\\",
-      "outputPath": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\POSAppModel\\obj\\",
+      "outputPath": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\POSAppModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kayan\\AppData\\Roaming\\NuGet\\NuGet.Config",

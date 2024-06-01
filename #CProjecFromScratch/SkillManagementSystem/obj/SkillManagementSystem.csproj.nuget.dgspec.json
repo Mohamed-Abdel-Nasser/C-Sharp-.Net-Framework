@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MN\\PL\\#C\\#CProjecFromScratch\\SkillManagementSystem\\SkillManagementSystem.csproj": {}
+    "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\SkillManagementSystem\\SkillManagementSystem.csproj": {}
   },
   "projects": {
-    "D:\\MN\\PL\\#C\\#CProjecFromScratch\\SkillManagementSystem\\SkillManagementSystem.csproj": {
+    "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\SkillManagementSystem\\SkillManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\SkillManagementSystem\\SkillManagementSystem.csproj",
+        "projectUniqueName": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\SkillManagementSystem\\SkillManagementSystem.csproj",
         "projectName": "SkillManagementSystem",
-        "projectPath": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\SkillManagementSystem\\SkillManagementSystem.csproj",
+        "projectPath": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\SkillManagementSystem\\SkillManagementSystem.csproj",
         "packagesPath": "C:\\Users\\kayan\\.nuget\\packages\\",
-        "outputPath": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\SkillManagementSystem\\obj\\",
+        "outputPath": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\SkillManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kayan\\AppData\\Roaming\\NuGet\\NuGet.Config",

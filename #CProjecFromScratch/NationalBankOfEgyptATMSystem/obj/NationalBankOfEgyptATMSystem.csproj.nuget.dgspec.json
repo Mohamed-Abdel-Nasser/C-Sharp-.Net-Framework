@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MN\\PL\\#C\\#CProjecFromScratch\\NationalBankOfEgyptATMSystem\\NationalBankOfEgyptATMSystem.csproj": {}
+    "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\NationalBankOfEgyptATMSystem\\NationalBankOfEgyptATMSystem.csproj": {}
   },
   "projects": {
-    "D:\\MN\\PL\\#C\\#CProjecFromScratch\\NationalBankOfEgyptATMSystem\\NationalBankOfEgyptATMSystem.csproj": {
+    "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\NationalBankOfEgyptATMSystem\\NationalBankOfEgyptATMSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\NationalBankOfEgyptATMSystem\\NationalBankOfEgyptATMSystem.csproj",
+        "projectUniqueName": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\NationalBankOfEgyptATMSystem\\NationalBankOfEgyptATMSystem.csproj",
         "projectName": "NationalBankOfEgyptATMSystem",
-        "projectPath": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\NationalBankOfEgyptATMSystem\\NationalBankOfEgyptATMSystem.csproj",
+        "projectPath": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\NationalBankOfEgyptATMSystem\\NationalBankOfEgyptATMSystem.csproj",
         "packagesPath": "C:\\Users\\kayan\\.nuget\\packages\\",
-        "outputPath": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\NationalBankOfEgyptATMSystem\\obj\\",
+        "outputPath": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\NationalBankOfEgyptATMSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kayan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MN\\PL\\#C\\#CProjecFromScratch\\PurchaseOrderModel\\PurchaseOrderModel.csproj": {}
+    "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\PurchaseOrderModel\\PurchaseOrderModel.csproj": {}
   },
   "projects": {
-    "D:\\MN\\PL\\#C\\#CProjecFromScratch\\PurchaseOrderModel\\PurchaseOrderModel.csproj": {
+    "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\PurchaseOrderModel\\PurchaseOrderModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\PurchaseOrderModel\\PurchaseOrderModel.csproj",
+        "projectUniqueName": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\PurchaseOrderModel\\PurchaseOrderModel.csproj",
         "projectName": "PurchaseOrderModel",
-        "projectPath": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\PurchaseOrderModel\\PurchaseOrderModel.csproj",
+        "projectPath": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\PurchaseOrderModel\\PurchaseOrderModel.csproj",
         "packagesPath": "C:\\Users\\kayan\\.nuget\\packages\\",
-        "outputPath": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\PurchaseOrderModel\\obj\\",
+        "outputPath": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\PurchaseOrderModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kayan\\AppData\\Roaming\\NuGet\\NuGet.Config",

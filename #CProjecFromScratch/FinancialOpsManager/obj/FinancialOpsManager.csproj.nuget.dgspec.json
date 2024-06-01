@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MN\\PL\\#C\\#CProjecFromScratch\\FinancialOpsManager\\FinancialOpsManager.csproj": {}
+    "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\FinancialOpsManager\\FinancialOpsManager.csproj": {}
   },
   "projects": {
-    "D:\\MN\\PL\\#C\\#CProjecFromScratch\\FinancialOpsManager\\FinancialOpsManager.csproj": {
+    "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\FinancialOpsManager\\FinancialOpsManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\FinancialOpsManager\\FinancialOpsManager.csproj",
+        "projectUniqueName": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\FinancialOpsManager\\FinancialOpsManager.csproj",
         "projectName": "FinancialOpsManager",
-        "projectPath": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\FinancialOpsManager\\FinancialOpsManager.csproj",
+        "projectPath": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\FinancialOpsManager\\FinancialOpsManager.csproj",
         "packagesPath": "C:\\Users\\kayan\\.nuget\\packages\\",
-        "outputPath": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\FinancialOpsManager\\obj\\",
+        "outputPath": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\FinancialOpsManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kayan\\AppData\\Roaming\\NuGet\\NuGet.Config",

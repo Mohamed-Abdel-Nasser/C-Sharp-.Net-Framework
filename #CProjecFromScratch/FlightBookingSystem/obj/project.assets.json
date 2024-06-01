@@ -111,11 +111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\FlightBookingSystem\\FlightBookingSystem.csproj",
+      "projectUniqueName": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\FlightBookingSystem\\FlightBookingSystem.csproj",
       "projectName": "FlightBookingSystem",
-      "projectPath": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\FlightBookingSystem\\FlightBookingSystem.csproj",
+      "projectPath": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\FlightBookingSystem\\FlightBookingSystem.csproj",
       "packagesPath": "C:\\Users\\kayan\\.nuget\\packages\\",
-      "outputPath": "D:\\MN\\PL\\#C\\#CProjecFromScratch\\FlightBookingSystem\\obj\\",
+      "outputPath": "D:\\MN\\PL\\#C\\My - GitHub Projects\\C-Sharp-.Net-Framework\\#CProjecFromScratch\\FlightBookingSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
